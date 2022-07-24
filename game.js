@@ -22,6 +22,8 @@ $(document).keypress (function() {
 
 nextRandomSequence();
 
+ }); 
+  
 //Click event listener
 
 $("div[type='button']")
@@ -55,7 +57,7 @@ $("div[type='button']")
 
   });
 
-});
+
 
 }
 
